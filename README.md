@@ -1,9 +1,9 @@
 
 ***
 
-# <projectName>
+# SlideXMagic
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+![SlideXMagic_PlaceholderLogo.png This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](/SlideXMagic_PlaceholderLogo.png)
 
 # By:
 
@@ -38,13 +38,13 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 [00.0 - Top](#Top)
 
-> [00.1 - Title](#<projectName>)
+> [00.1 - Title](#SlideXMagic)
 
 > [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
 
 > [00.3 - Index](#Index)
 
-[01.0 - Description](#RepositoryName)
+[01.0 - Description](#SlideXMagic)
 
 [02.0 - About](#About)
 
@@ -100,20 +100,28 @@ Translations are currently done with Bing translate and DeepL. Support for Googl
 
 ***
 
-# <repoName>
-<repo_description>
+# SlideXMagic
+A software LIBrary for uploading presentation/slideshow files as image previews for online addon and content stores. Inspired by [addons.mozilla.org](https://addons.mozilla.org/)
 
 ***
 
 ## About
 
-See above. <extendedRepoDescription>
+See above. SlideXMagic allows the upload of presentatiom files as the preview images for select online services hosting an addon, software piece, etc.
+
+The files can be downloaded in any slideshow format. There are many options for viewing slideshows, and full info is given before download. A basic online slideshow editor is also available, which is powered by [uOffice](https://github.com/uOffice).
+
+You can also Enable/Disable transition effects
+
+### What inspired this idea
+
+It came to me automatically when I was making my weekly visit to [`addons.mozilla.org`](https://addons.mozilla.org/) and I had ideas for improvements
 
 ***
 
 ## Wiki
 
-[Click/tap here to view this projects Wiki](https://github.com/<developerName>/<repoName>/wiki)
+[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/SlideXMagic/wiki)
 
 If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
 
@@ -293,9 +301,9 @@ Contributing is allowed for this project, as long as you follow the rules of the
 
 **File type:** `Markdown Document (*.md *.mkd *.markdown)`
 
-**File version:** `0.1.6 (Monday, August 23rd 2021 at 6:37 pm)`
+**File version:** `1 (Wednesday, 2022 March 2nd at 5:21 pm)`
 
-**Line count (including blank lines and compiler line):** `0,407`
+**Line count (including blank lines and compiler line):** `0,425`
 
 ***
 
@@ -379,11 +387,21 @@ Version 0.1 (Sunday, March 21st 2021 at 7:50 pm)
 
 > * No other changes in version 0.1
 
-Version 1 (Coming soon)
+Version 1 (2022, Wednesday, March 2nd at 5:21 pm)
 
 > Changes:
 
-> * Coming soon
+> * Added a placeholder logo
+
+> * Fixed some links
+
+> * Updated the description
+
+> * Updated the footer
+
+> * Updated the file info section
+
+> * Updated the file history section
 
 > * No other changes in version 1
 
@@ -399,7 +417,7 @@ Version 2 (Coming soon)
 
 ### You have reached the end of the README file
 
-( [Back to top](#Top) | [Exit to GitHub](https://github.com) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org) )
+( [`Back to top`](#Top) | [`Exit to GitHub`](https://github.com) | [`Exit to Bing`](https://www.bing.com/) | [`Exit to DuckDuckGo`](https://duckduckgo.com/) | [`Exit to safe.DuckDuckGo.com`](https://safe.duckduckgo.com/) | [`Exit to Ecosia`](https://www.ecosia.org) | [`Exit to Swisscows`](https://www.swisscows.com) )
 
 ### EOF
 
