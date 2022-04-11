@@ -251,6 +251,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Seanpm2001-Mozilla",
+      "name": "Seanpm2001 Mozilla projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83845349?v=4",
+      "profile": "https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-firefox",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
