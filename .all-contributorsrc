@@ -183,6 +183,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "Seanpm2001-BrowserExtensions",
+      "name": "Seanpm2001 Browser Extensions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85650235?v=4",
+      "profile": "https://github.com/seanwallawalla-browserextensions",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
