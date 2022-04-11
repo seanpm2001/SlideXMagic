@@ -336,6 +336,23 @@
         "maintenance",
         "ideas"
       ]
+    },
+    {
+      "login": "SlideXMagic",
+      "name": "SlideXMagic (Slideshow Software LIBrary)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/103300644?v=4",
+      "profile": "https://github.com/SlideXMagic",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
     }
   ],
   "contributorsPerLine": 7,
