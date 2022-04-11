@@ -1,0 +1,330 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "seanpm2001",
+      "name": "Sean P. Myrick V19.1.7.2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65933340?v=4",
+      "profile": "https://gist.github.com/seanpm2001/7e40a0e13c066a57577d8200b1afc6a3",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Seanpm2001-All",
+      "name": "Seanpm2001 (All)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71843643?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-GPL",
+      "name": "Seanpm2001 GPL (General Public License)",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86742875?v=4",
+      "profile": "https://github.com/Seanpm2001-GPL",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-Perl-lang",
+      "name": "Seanpm2001 Perl projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84095190?v=4",
+      "profile": "https://github.com/seanpm2001/Perl_Harbor",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-JavaScript-lang",
+      "name": "Seanpm2001 JavaScript projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84038651?v=4",
+      "profile": "https://www.javascript.com/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-JSON-lang",
+      "name": "Seanpm2001 JSON language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/93161824?v=4",
+      "profile": "https://github.com/Seanpm2001-JSON-lang",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-WebAssembly-lang",
+      "name": "Seanpm2001 Web Assembly language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85316842?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_WebAssembly",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-HTML5-lang",
+      "name": "Seanpm2001 HTML5 projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83990679?v=4",
+      "profile": "https://en.wikipedia.org/wiki/HTML5",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-TypeScript-lang",
+      "name": "Seanpm2001 TypeScript language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84149694?v=4",
+      "profile": "https://www.typescriptlang.org/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-ActionScript-lang",
+      "name": "Seanpm2001 ActionScript language",
+      "avatar_url": "https://avatars.githubusercontent.com/u/84252269?v=4",
+      "profile": "https://helpx.adobe.com/air/archived-docs-download.html",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-BrowserExtensions",
+      "name": "Seanpm2001 Browser Extensions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/85650235?v=4",
+      "profile": "https://github.com/seanwallawalla-browserextensions",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanwallawalla-BrowserExtensions",
+      "name": "SeanWallaWalla Browser Extensions",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71898527?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-Software",
+      "name": "SeanPM",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71793933?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanwallawalla-software",
+      "name": "seanwallawalla",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71748083?v=4",
+      "profile": "https://github.com/seanpm2001/",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-Mozilla",
+      "name": "Seanpm2001 Mozilla projects",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83845349?v=4",
+      "profile": "https://github.com/seanpm2001/SeansLifeArchive_Images_Mozilla-firefox",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-Firefox",
+      "name": "Seanpm2001 Firefox",
+      "avatar_url": "https://avatars.githubusercontent.com/u/83987132?v=4",
+      "profile": "https://github.com/seanpm2001/SNU_2D_Users_SeanPatrickMyrickFirefox",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-LIBraries",
+      "name": "Seanpm2001 LIBraries",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80229787?v=4",
+      "profile": "https://github.com/seanpm2001-libraries",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    },
+    {
+      "login": "Seanpm2001-web",
+      "name": "Seanpm2001 web software",
+      "avatar_url": "https://avatars.githubusercontent.com/u/80805235?v=4",
+      "profile": "https://ddg.gg",
+      "contributions": [
+        "code",
+        "doc",
+        "projectManagement",
+        "security",
+        "data",
+        "content",
+        "design",
+        "maintenance",
+        "ideas"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "SlideXMagic",
+  "projectOwner": "seanpm2001",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
